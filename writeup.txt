@@ -1,0 +1,10 @@
+
+name: Ryan Gutierrez
+github: gutzq
+email: ryan_gutierrez@uml.student.edu
+
+The features that are implemented are a working scrabble one line board that is able to be submitted to get words score.
+You are able to reset the game whenever you deem necessary. You are also able to drag and drop tiles sucessfully. What 
+I didn't quite get to was removing letters from the tilerack after updating the gameboard. And I was having issues with updating 
+words score I was only able to multiply the letter. The only other implementation that was not included was words over 2 letters you can
+submit and letter as a word. 
